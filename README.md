@@ -5,9 +5,11 @@ Opinionated list of awesome AngularJS modules **without** jQuery dependency.
 
 Table of contents:
 * [Carousel](#carousel)
+* [i18n](#i18n)
 * [Lazy loading](#lazy-loading)
 * [Media queries](#media-queries)
 * [Modal](#modal)
+* [Router](#router)
 * [ScrollSpy](#scrollspy)
 * [Sortable](#sortable)
 * [Typeahead](#typeahead)
@@ -15,6 +17,9 @@ Table of contents:
 
 ## Carousel
 * [revolunet/angular-carousel](https://github.com/revolunet/angular-carousel) - Mobile friendly AngularJS carousel
+
+## i18n
+* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your Angular apps, made easy.
 
 ## Lazy loading
 * [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Load modules on demand (lazy load) in AngularJS
@@ -24,6 +29,9 @@ Table of contents:
 
 ## Modal
 * [likeastore/ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
+
+## Router
+* [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views
 
 ## ScrollSpy
 * [oblador/angular-scroll](https://github.com/oblador/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js
