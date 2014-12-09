@@ -41,3 +41,4 @@ Table of contents:
 
 ## Typeahead
 * [darylrowland/angucomplete](https://github.com/darylrowland/angucomplete) - AngularJS Autocomplete Directive
+* [hakib/MassAutocomplete](https://github.com/hakib/MassAutocomplete) - Auto Complete for Angularjs applications with a lot to complete
